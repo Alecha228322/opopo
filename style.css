@@ -16,8 +16,10 @@
 
 .fonik {
     background-image: url('gay.jpg');
-    background-size: 30%;
-    background-position: center;
+    /* background-size: 150%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
 }
 
 .bukva {
