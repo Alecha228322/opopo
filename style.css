@@ -1,0 +1,56 @@
+.bl1 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.bl2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(123, 255, 0);
+}
+
+.fon {
+    background-color: black;
+}
+
+.fonik {
+    background-image: url('gay.jpg');
+    background-size: 30%;
+    background-position: center;
+}
+
+.bukva {
+    font-size: 1000%;
+    color: black;
+}
+
+.err {
+    font-size: 2000%;
+    color: red;
+}
+
+.cnop {
+    width: 400px;
+    height: 100px;
+    font-size: 70pt;
+    
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.scrimacpizd {
+    background-color: aqua;
+}
+
+.tr {
+    transition: 4s;
+}
+
+.bl3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+}
